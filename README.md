@@ -5,6 +5,7 @@ By default, your current location will be selected.
 # About me
 This project was created by Antonio Lok for learning purposes only as I am learning more about ReactJs.
 
+# React
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
