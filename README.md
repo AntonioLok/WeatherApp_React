@@ -2,7 +2,9 @@
 This application displays the temperature for a given location for today and the next 4 days.
 By default, your current location will be selected.
 
-It was developed using RectJS for the front end and it fetches data with the Open Weather api.
+It was developed using RectJS for the front end and it fetches data with an Open Weather api.
+
+To start the project, run on the command `npm start`
 
 # About me
 This project was created by Antonio Lok for learning purposes only as I am learning more about ReactJs.
