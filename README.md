@@ -4,6 +4,9 @@ By default, your current location will be selected.
 
 It was developed using RectJS for the front end and it fetches data with an Open Weather api.
 
+![alt text](https://github.com/AntonioLok/WeatherApp_React/blob/master/images/demo1.png)
+![alt text](https://github.com/AntonioLok/WeatherApp_React/blob/master/images/demo2.png)
+
 To start the project, run on the command `npm start`
 
 # About me
